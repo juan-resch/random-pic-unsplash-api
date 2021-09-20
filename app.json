@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "marklist",
-    "slug": "marklist",
+    "name": "Random Pic",
+    "slug": "unsplash-api",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
